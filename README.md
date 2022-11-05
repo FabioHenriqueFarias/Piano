@@ -3,7 +3,9 @@
 <p align="center"> 
         <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="#-layout">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a 
+        <a href="#-referencias">Referencias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a 
 </p>
 
@@ -31,7 +33,7 @@ O Piano é um projeto que simula um teclado de forma digital.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://fabiohenriquefarias.github.io/Piano/).
 
-## 📚 Referências
+## 📚 Referencias
 
 Referência do projeto.
 
