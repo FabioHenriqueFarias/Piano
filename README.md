@@ -1,11 +1,11 @@
-<h1 align="center">Piano feito com Javascript</h1>
+<h1 align="center">Piano com Javascript</h1>
 
 <p align="center"> 
         <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a 
-        <a href="#-referencias">Referencias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#-referencias">Referências</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a 
 </p>
 
@@ -33,9 +33,9 @@ O Piano é um projeto que simula um teclado de forma digital.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://fabiohenriquefarias.github.io/Piano/).
 
-## 📚 Referencias
+## 📚 Referências
 
-Referência do projeto.
+Referências do projeto.
 
 [@Eliteware](https://codepen.io/Eliteware/pen/wDHIC)    
 [@gabrielcarol_](https://codepen.io/gabrielcarol/pen/rGeEbY)
